@@ -1,0 +1,8 @@
+0.6
+2019.2
+Nov  6 2019
+21:57:16
+C:/Users/Jayanth MN/project_3/project_3.sim/sim_1/behav/xsim/glbl.v,1573089660,verilog,,,,glbl,,,,,,,,
+C:/Users/Jayanth MN/project_3/project_3.srcs/sources_1/new/qpsk.v,1689876022,verilog,,,,qpsk1,,,,,,,,
+C:/Users/Jayanth MN/project_3/project_3.srcs/sources_1/new/qpskdemodul.v,1689877022,verilog,,C:/Users/Jayanth MN/project_3/project_3.srcs/sources_1/new/qpskmodul.v,,QPSK_Demodulator_Baseband,,,,,,,,
+C:/Users/Jayanth MN/project_3/project_3.srcs/sources_1/new/qpskmodul.v,1689876935,verilog,,C:/Users/Jayanth MN/project_3/project_3.srcs/sources_1/new/qpsk.v,,QPSK_Modulator_Baseband,,,,,,,,
